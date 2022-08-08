@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kfleming08
 - 👀 I’m interested in ... Data Analysis
-- 🌱 I’m currently learning ... SQL Queries
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... SQL Queries and performing analysis using R
 
 <!---
 kfleming08/kfleming08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
